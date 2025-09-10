@@ -1,6 +1,6 @@
 # Fashion Trend Analytics (Volunteer Research Sample)
 
-A simple, teaching-friendly project that shows how **AI and data analysis** can help track fashion trends for a **Fashion Psychology Institute**. It uses plain tools (pandas, simple keyword tagging, basic charts) so the whole pipeline is easy to understand and present.
+Sample of the project with the work flow to help track fashion trends for **Fashion Psychology Institute**. It uses plain tools (pandas, simple keyword tagging, basic charts). I would like to explain more during the interview process.
 
 ## What this does 
 - Loads a small dataset of fashion posts (sample provided).
