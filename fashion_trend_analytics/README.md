@@ -74,7 +74,6 @@ COLOR_WORDS = ["red","blue","black","white","green","beige","pastel"]
 STYLE_WORDS = ["denim","linen","leather","knit","floral"]
 MOOD_WORDS  = ["minimal","romantic","edgy","cozy","casual","bold","confident","lightweight","mood"]
 ```
-Add or remove words to fit your study.
 
 ## Using your real data
 - Export your posts to CSV with the **same columns** as the sample.
